@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "CrimsonText";
+  src: url("/assets/fonts/CrimsonText-Regular.ttf");
+}
+
+body {
+    font-family: 'CrimsonText';
+}
+
+.row {
+  display: flex;
+}
+
+.col {
+  flex: 50%;
+}
+
+.current {
+    color: green;
+}

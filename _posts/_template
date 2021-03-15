@@ -1,0 +1,11 @@
+iter: , loss:  
+
+{% capture machine %}
+
+{% endcapture %}
+
+{% capture translation %}
+
+{% endcapture %}
+
+{% include panels.html %}
