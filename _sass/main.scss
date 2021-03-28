@@ -7,6 +7,40 @@ body {
     font-family: 'CrimsonText';
 }
 
+a {
+    color: #bc544b;
+    text-decoration: none;
+}
+
+a:hover {
+  color: #8b0000;
+}
+
+
+.middle {
+    padding: 0 60vh;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+
+    img {
+        margin: 30px;
+        height: 32px;
+        width: 32px;
+    }
+}
+
+nav a {
+    margin-left: 10px;
+}
+
+
+#header {
+    text-align: center;
+}
+
 .row {
   display: flex;
 }
