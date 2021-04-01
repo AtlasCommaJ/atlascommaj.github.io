@@ -94,7 +94,7 @@ Too easily
 To finally break this ergodicity  
 I swore I'd stay, to stay here, stationary  
 I assumed, you and me  
-Irreducibillity 
+Irreducibillity  
 I'd step to you again  
 Something I can value  
 
