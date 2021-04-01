@@ -1,6 +1,6 @@
 ---
 title: Alethiometry
-layout: Alethiometry
+layout: alethiometry
 ---
 
 <ul id="poems">
