@@ -2,7 +2,7 @@
 title: Links 
 ---
 
-<div class="middle">
+
 
 
 <div class='icons'>
@@ -12,5 +12,4 @@ title: Links
 <a href='https://twitter.com/AlasJetsam'><img src="/assets/images/twitter.png" alt="twitter icon"/></a>
 </div>
 
-</div>
 
