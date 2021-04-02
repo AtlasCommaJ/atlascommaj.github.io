@@ -3,8 +3,10 @@ title: Commit to the Bitcoin
 ---
 
 
-# Commit to the Bitcoin: A New Musical
+# Commit to the Bitcoin
 ## (or, The Trustless Marriage of Alice and Bob) 
+the world's first open-source musical  
+words seeking scoring, make a [pull request](https://github.com/AtlasCommaJ/CommitToTheBitcoin) if you've got a melody or a better rhyme
 
 <hr/>
 <hr/>
@@ -43,7 +45,7 @@ Forgive us if we're greedy
 We've been traveling so long and now we're dying to sell  
 
 #### BOTH TOGETHER:  
-Hello world
+Hello world  
 Key pairs can't beat this Queen pair  
 We're racing to go, we're braced and we're curled   
 You can't imagine the byzantine affair  
