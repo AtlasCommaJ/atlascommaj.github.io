@@ -1,6 +1,6 @@
 ---
-title: Alethiometry
-layout: alethiometry
+title: Blog
+layout: blog
 ---
 
 <ul id="blog">
