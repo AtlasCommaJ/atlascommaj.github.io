@@ -1,12 +1,12 @@
 - name: Home
   link: /
-- name: Blog
-  link: /blog
-- name: Alethiometry
-  link: /alethiometry
-# - name: CttB
-#   link: /cttb
-- name: Man-Man
-  link: /man-man
-- name: Links
-  link: /links
+# - name: Blog
+#   link: /blog
+# - name: Alethiometry
+#   link: /alethiometry
+# # - name: CttB
+# #   link: /cttb
+# - name: Man-Man
+#   link: /man-man
+# - name: Links
+#   link: /links
